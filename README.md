@@ -12,4 +12,6 @@
 3. Скомпілюйте та прошийте через ST-Link.
 
 
-![Демонстрація](https://imgur.com/a/OkyCynm)
+![Демонстрація](https://github.com/user-attachments/assets/cfc53932-1794-4290-bfd3-1a2d61dc745a)
+
+
